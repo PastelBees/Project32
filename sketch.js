@@ -18,7 +18,7 @@ var score = 0
 function preload(){
 
 
-	changeBackground()
+
 
 }
 
